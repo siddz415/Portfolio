@@ -1,0 +1,35 @@
+.resume-container {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  margin-top: 50px;
+
+  }
+  
+  .title {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .resume-text {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .link:hover {
+    background-color: #051116;
+  }
+
+  .link {
+    color: #fff;
+    transition: background-color 0.3s ease;
+    background-color: #3c0de4;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 10px 20px;
+  }
+  
