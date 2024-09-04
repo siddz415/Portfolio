@@ -4,7 +4,7 @@ import Header from "../components/Header";
 import StairTransition from "../components/StairTransition";
 import PageTransition from "../components/PageTransition";
 
-// componants
+// components
 
 const jetbrainsMono = JetBrains_Mono({
   subsets: ["latin"],
@@ -13,8 +13,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Siddharth PORTFOLIO",
-  description: "A modern portofolio of by NextJS",
+  title: "Siddharth Portfolio",
+  description: "A modern portfolio by NextJS",
 };
 
 export default function RootLayout({ children }) {

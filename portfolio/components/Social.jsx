@@ -1,14 +1,14 @@
 import Link from "next/link";
-import { faGithu, faLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 const socials = [
     {
       path: "https://github.com/siddz415",
-      icon: <faGithub/>,
+      icon: <FaGithub/>,
     },
     {
-      path: "https://www.linkedin.com/siddharthdravid/",
-      icon: <faLinkedin />,
+      path: "https://www.linkedin.com/in/siddharthdravid/",
+      icon: <FaLinkedin />,
     },
 ]
 
