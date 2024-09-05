@@ -60,7 +60,7 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "I have experience in developing dynamic and responsive websites using a range of modern web technologies. My focus is on delivering efficient, user-centric solutions that combine clean design with robust functionality. I'm proficient in both front-end and back-end development, with expertise in HTML, CSS, JavaScript, jQuery, and frameworks such as React, and Angular. Skilled in back-end technologies including Node.js, and Python, and well-versed in database management with MySQL, MongoDB, and PostgreSQL. Familiar with cloud services and containerization using AWS, and Docker, and experienced in using Git methodologies",
+    "I have experience in developing dynamic and responsive websites using a range of modern web technologies. My focus is on delivering efficient, user-centric solutions that combine clean design with robust functionality. I'm proficient in both front-end and back-end development, with expertise in HTML, CSS, JavaScript, jQuery, and frameworks such as React, and Angular. Skilled in back-end technologies including Node.js, and Python, and well-versed in database management with MySQL, MongoDB, and PostgreSQL. Familiar with cloud services and containerization using AWS, and Docker, and experienced in using Git methodologies.",
   items: [
     {
       company: "Tesla.",

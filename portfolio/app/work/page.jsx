@@ -20,7 +20,7 @@ const projects = [
     category: "frontend",
     title: "Turn Up",
     description:
-      "Turn Up app makes it easy for users to search and plan for concerts of their favorite artists. It also provides services for users to look up and save live entertainment events..",
+      "Turn Up app makes it easy for users to search and plan for concerts of their favorite artists. It also provides services for users to look up and save live entertainment events.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "JavaScript" }],
     image: "/assets/work/turnup.png",
     live: "",
@@ -28,6 +28,17 @@ const projects = [
   },
   {
     num: "02",
+    category: "frontend",
+    title: "Code-Quiz",
+    description:
+      "I have created a quiz with four questions and a timer that deducts 10 seconds from every wrong question. When you click on the start button the timer starts and you are presented with a question, after you answer a question then you are presented with another question. When all questions are answered or the timer reaches 0 then the quiz is over and you can save your name and score in highscore.",
+    stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "JavaScript" }],
+    image: "/assets/work/quiz.png",
+    live: "https://siddz415.github.io/Code-Quiz/",
+    github: "https://github.com/siddz415/Code-Quiz",
+  },
+  {
+    num: "03",
     category: "fullstack",
     title: "GamesRus",
     description:
@@ -43,7 +54,7 @@ const projects = [
     github: "https://github.com/siddz415/GamesRUS",
   },
   {
-    num: "03",
+    num: "04",
     category: "fullstack",
     title: "Spiral-Travel",
     description:
@@ -57,6 +68,38 @@ const projects = [
     image: "/assets/work/spiral.jpg",
     live: "",
     github: "https://github.com/siddz415/Spiral-travel",
+  },
+  {
+    num: "05",
+    category: "backend",
+    title: "Langchain-RAG",
+    description:
+      "The chatbot uses the latest version of LangChain to interact with and extract information from various websites. It is Compatible with models like GPT-4, Mistral, Llama2, and ollama. In this project I am using GPT-4. It is a powerful tool for extracting information from various websites and providing users with accurate and up-to-date information.",
+    stack: [
+      { name: "Django" },
+      { name: "Python" },
+      { name: "Streamlit" },
+      { name: "GPT-4" },
+    ],
+    image: "/assets/work/rag.png",
+    live: "",
+    github: "https://github.com/siddz415/Langchain-RAG",
+  },
+  {
+    num: "06",
+    category: "backend",
+    title: "Chat-with-MySql",
+    description:
+      "The chatbot works by taking a user's natural language query, converting it into a SQL query using GPT-4, executing the query on a SQL database, and then presenting the results back to the user in natural language. This process involves several steps of data processing and interaction with the OpenAI API and a SQL database, all seamlessly integrated into a Streamlit application.",
+    stack: [
+      { name: "Sql" },
+      { name: "Python" },
+      { name: "Streamlit" },
+      { name: "GPT-4" },
+    ],
+    image: "/assets/work/sql.png",
+    live: "",
+    github: "https://github.com/siddz415/Chat-with-MySql-Openai",
   },
 ];
 
