@@ -8,18 +8,19 @@
 
 
 ### Description
-A React Portfolio containing all my projects, skills and it also has link to download my resume.
+A Next.js Portfolio containing all my projects, skills and it also has link to download my resume.
 
 
 ### Installation
 * react
-* react-dom
-* react-bootstrap
-* mui icons
+* next
+* react-icons
+* framer-motion
+* react-scroll
 
 
 ### Screenshot
-![Screenshot of the Site](./portfolio/src/assets/react.png)
+![Screenshot of the Site](./portfolio/public/assets/react.png)
 
 ### links
 # github
